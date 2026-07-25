@@ -1,7 +1,5 @@
-git add .
-git commit -m "Fixed requirements.txt"
-git push
+pandas
+numpy
 
-# Standard Library Modules (Included with Python)
 tkinter
 datetime
