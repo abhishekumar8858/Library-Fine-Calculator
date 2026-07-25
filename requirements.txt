@@ -1,6 +1,6 @@
-
-# Python Version
-Python-3.12.10
+git add .
+git commit -m "Fixed requirements.txt"
+git push
 
 # Standard Library Modules (Included with Python)
 tkinter
