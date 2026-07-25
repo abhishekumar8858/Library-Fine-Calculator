@@ -1,0 +1,12 @@
+# ==========================================
+# Library Fine Calculator - Requirements
+# ==========================================
+
+# Python Version
+Python >= 3.8
+
+# Standard Library Modules (Included with Python)
+tkinter
+datetime
+
+# No external packages are required.
